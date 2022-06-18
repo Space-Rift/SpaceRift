@@ -1,6 +1,9 @@
 | [Home](https://space-rift.github.io/SpaceRift) | [Planned Features](https://space-rift.github.io/SpaceRift/Planned-Features) | [Changelogs](https://space-rift.github.io/SpaceRift/Changelog) | 
 # Changelog
 ## 1.0.0 | Minecraft 1.18.2
+### Biomes
+- Paradise Cypher
+- Paradise Cypher Caves
 ### Blocks
 - Cinima Root Crop Stage 0
 - Cinima Root Crop Stage 1
@@ -34,21 +37,10 @@
 - Spawner Block
 - Stripped Cypher Log
 - Stripped Cypher Wood
-### Items
-- Cinima Root
-- Cinima Root Seeds
-- Gatekey Book
-- Moonstone
-### Biomes
-- Paradise Cypher
-- Paradise Cypher Caves
 ### Dimensions
 - Paradise
 ### Entities
 - Saberfish
-### GUIs
-- Space Gate Portal Mode
-- Space Gate Teleporter Mode
 ### Fuel
 - Cypher Button Fuel
 - Cypher Fence Fuel
@@ -61,6 +53,14 @@
 - Cypher Wood Fuel
 - Stripped Cypher Log Fuel
 - Stripped Cypher Wood Fuel
+### GUIs
+- Space Gate Portal Mode
+- Space Gate Teleporter Mode
+### Items
+- Cinima Root
+- Cinima Root Seeds
+- Gatekey Book
+- Moonstone
 ### Loot Tables
 - Cypher Laves Drops
 - Moonstone Ore Loot
