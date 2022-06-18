@@ -1,8 +1,8 @@
-# SpaceRift
-## Planned Features
+| [Home](https://space-rift.github.io/SpaceRift) | [Planned Features](https://space-rift.github.io/SpaceRift/Planned-Features) |
+# Planned Features
 A list of planned and ideas that may make it into the mod.
 
-### Zombie Workers
+## Zombie Workers
 Unique zombies can be placed under a spell to work at uniqe structures allowing for automation and production of more advanced items, tools, blocks and other resources.  
 
 **IDEAS**
@@ -17,7 +17,7 @@ Unique zombies can be placed under a spell to work at uniqe structures allowing 
 - Tool Facility
 - Crafting Facility
 
-### Quests and Rewards
+## Quests and Rewards
 A quest line of missions per dimension that can earn you rewards.
 
 **IDEAS**
@@ -27,7 +27,7 @@ A quest line of missions per dimension that can earn you rewards.
 - Repeatable quests once the full quest line has been completed.
 - Rewards ranging form resources, uniqe tools and weapons to pets.
 
-### Inner Teleportation System
+## Inner Teleportation System
 A adaption to the space gate portal pad that can also detect existing portals from user input in the area and link to them using a new screen.
 
 **IDEAS**
@@ -35,7 +35,7 @@ A adaption to the space gate portal pad that can also detect existing portals fr
 - Searching for a portal can allow for the player to save the portal location and teleport to that portal location.
 - Only for inner world traveling.
 
-### General Ideas
+## General Ideas
 - More Biomes
 - More Dimensions
 - More Tools & Weapons
