@@ -8,4 +8,4 @@
 - New entities, items, blocks, recipes and much more.
 
 ### Pages
-- [Planned Features](https://space-rift.github.io/Community/Planned-Features/)
+- [Planned Features](https://space-rift.github.io/Community/Planned-Features)
