@@ -1,3 +1,4 @@
+| [Home](https://space-rift.github.io/Community) | [Planned Features](https://space-rift.github.io/Community/Planned-Features) |
 ## SpaceRift
 ### Features
 - Dynamic portals that can link to more then world.
@@ -6,6 +7,3 @@
 - New dimensions and biomes to explore.
 - Specicly designed textures for the mod.
 - New entities, items, blocks, recipes and much more.
-
-### Pages
-- [Planned Features](https://space-rift.github.io/Community/Planned-Features)
