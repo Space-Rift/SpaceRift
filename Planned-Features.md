@@ -1,4 +1,4 @@
-| [Home](https://space-rift.github.io/SpaceRift) | [Planned Features](https://space-rift.github.io/SpaceRift/Planned-Features) | [Changelogs](https://space-rift.github.io/SpaceRift/Changelog) | 
+| [Home](https://space-rift.github.io/SpaceRift) | [News](https://space-rift.github.io/SpaceRift/News) | [Planned Features](https://space-rift.github.io/SpaceRift/Planned-Features) | [Changelogs](https://space-rift.github.io/SpaceRift/Changelog) | [Wiki](https://space-rift.github.io/SpaceRift/Wiki) | [Downloads](https://space-rift.github.io/SpaceRift/Downloads) 
 # Planned Features
 A list of planned and ideas that may make it into the mod.
 
