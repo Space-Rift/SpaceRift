@@ -1,4 +1,4 @@
-| [Home](https://space-rift.github.io/SpaceRift) | [Planned Features](https://space-rift.github.io/SpaceRift/Planned-Features) | [Changelogs](https://space-rift.github.io/SpaceRift/Changelog) | 
+| [Home](https://space-rift.github.io/SpaceRift) | [News](https://space-rift.github.io/SpaceRift/News) | [Planned Features](https://space-rift.github.io/SpaceRift/Planned-Features) | [Changelogs](https://space-rift.github.io/SpaceRift/Changelog) | [Wiki](https://space-rift.github.io/SpaceRift/Wiki) | [Downloads](https://space-rift.github.io/SpaceRift/Downloads) 
 # Home
 ![banner](https://user-images.githubusercontent.com/47284617/174456107-149fe5a5-a543-4d89-98d6-6b7025888a32.png)
 ## Features
